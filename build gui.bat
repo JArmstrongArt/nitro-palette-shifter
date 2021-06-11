@@ -1,0 +1,1 @@
+pyinstaller --noconsole --onefile --icon=appIcon.ico main_gui.py

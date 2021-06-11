@@ -1,0 +1,1 @@
+python <path to python idle.py here> -r <path to main commandline.py here> "%~1"
